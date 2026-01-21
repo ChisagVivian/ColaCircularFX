@@ -13,7 +13,7 @@ public class ColaCircular {
     public Nodo primeraLlamada;
     public Nodo ultimaLlamada;
     public int contador;
-    public int tamanioCola = 5;
+    public int tamanioCola = 10;
     // private Nodo[] clientes = new Nodo[tamanio];
 
     public ColaCircular() {

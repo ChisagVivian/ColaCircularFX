@@ -9,7 +9,7 @@ package ec.edu.espoch.colacircular.model;
  * @author Usuario
  */
 public class Cliente {
-private String nombre;
+    private String nombre;
     private String celular;
 
     
