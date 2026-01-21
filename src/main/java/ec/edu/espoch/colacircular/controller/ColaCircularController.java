@@ -3,7 +3,7 @@ package ec.edu.espoch.colacircular.controller;
 import ec.edu.espoch.colacircular.model.*;
 import ec.edu.espoch.colacircular.vista.*;
 import javafx.fxml.FXML;
-import javafx.scene.control.Label;
+import javafx.scene.control.Label; 
 import javafx.scene.control.TextField;
 import javafx.scene.layout.StackPane;
 
